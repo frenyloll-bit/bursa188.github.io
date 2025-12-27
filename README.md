@@ -1,2 +1,168 @@
-# bursa188.github.io
-games
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SELAMAT DATANG DI BURSA 188</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%); /* Gradien hitam untuk kesan unik */
+            color: #FFD700; /* Kuning keemasan */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            text-align: center;
+            overflow-x: hidden;
+        }
+        header {
+            margin-bottom: 50px;
+            animation: fadeIn 2s ease-in-out;
+        }
+        h1 {
+            font-size: 3em;
+            margin: 0;
+            text-shadow: 2px 2px 4px rgba(255, 215, 0, 0.5);
+            letter-spacing: 2px;
+        }
+        .buttons {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 50px;
+            animation: slideIn 1.5s ease-out;
+        }
+        button {
+            background-color: #FFD700; /* Kuning keemasan */
+            color: #000000; /* Hitam */
+            border: none;
+            padding: 15px 30px;
+            font-size: 1.2em;
+            cursor: pointer;
+            border-radius: 25px; /* Lebih bulat untuk kesan elegan */
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 8px rgba(255, 215, 0, 0.3);
+        }
+        button:hover {
+            background-color: #FFA500; /* Oranye keemasan untuk hover */
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(255, 215, 0, 0.5);
+        }
+        .content {
+            max-width: 900px;
+            padding: 20px;
+            background-color: rgba(255, 215, 0, 0.1); /* Sedikit transparan untuk kontras */
+            border-radius: 15px;
+            margin-top: 20px;
+            box-shadow: 0 0 20px rgba(255, 215, 0, 0.2);
+            animation: fadeInUp 2s ease-out;
+        }
+        h2 {
+            color: #FFD700;
+            margin-top: 0;
+            font-size: 2em;
+        }
+        p, ul {
+            color: #FFFFFF; /* Putih untuk readability */
+            line-height: 1.6;
+        }
+        ul {
+            text-align: left;
+            display: inline-block;
+        }
+        .image-section {
+            margin: 20px 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+            transition: transform 0.3s ease;
+        }
+        img:hover {
+            transform: scale(1.05);
+        }
+        .game-images {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .game-item {
+            background-color: rgba(0, 0, 0, 0.5);
+            padding: 15px;
+            border-radius: 10px;
+            text-align: center;
+            transition: background-color 0.3s ease;
+        }
+        .game-item:hover {
+            background-color: rgba(255, 215, 0, 0.1);
+        }
+        .game-item img {
+            width: 100%;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 8px;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        @keyframes slideIn {
+            from { transform: translateY(50px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+        @keyframes fadeInUp {
+            from { transform: translateY(30px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>SELAMAT DATANG DI BURSA 188</h1>
+    </header>
+    <div class="buttons">
+        <button onclick="window.location.href='https://bursa188coco.cfd/'">LOGIN</button>
+        <button onclick="window.location.href='https://bursa188coco.cfd/'">DAFTAR</button>
+    </div>
+    <div class="content">
+        <h2>BONUS BURSA 188</h2>
+        <div class="image-section">
+            <img src="https://api2-br1.imgnxa.com/images/8xFfp8aNPQ/id_promo_d2b654eb-5d95-4ec3-93f4-20b6c205f92b_1632042117443.jpg" />
+            <p>Gambar di atas menunjukkan contoh permainan slot mesin online, salah satu jenis permainan populer yang menawarkan hiburan dan peluang menang. Di Bursa 188, nikmati pengalaman bermain yang imersif dan adil.</p>
+        </div>
+        
+        <h2>Rekomendasi Permainan Online</h2>
+        <p>Berikut adalah beberapa rekomendasi permainan online populer yang tersedia di Bursa 188:</p>
+        <div class="game-images">
+            <div class="game-item">
+                <img src="https://d2rzzcn1jnr24x.cloudfront.net/Images/providers/PPLIVECASINO/PPLiveCasino_1301.jpg?v=20250528" />
+                <p><strong>SLOT </strong></p>
+            </div>
+            
+            <div class="game-item">
+                <img src="https://d2rzzcn1jnr24x.cloudfront.net/Images/~normad-alpha/menu/desktop/home-menu-5/game-code-24.webp?v=20250528" />
+                <p><strong>Poker</strong></p>
+            </div>
+            <div class="game-item">
+                <img src="https://d2rzzcn1jnr24x.cloudfront.net/Images/~normad-alpha/menu/desktop/home-menu-2/game-code-44.webp?v=20250528" />
+                <p><strong>Live Casino </strong></p>
+            </div>
+            <div class="game-item">
+                <img src="https://d2rzzcn1jnr24x.cloudfront.net/Images/providers/EVOGAMING/always9baccarat1.jpg?v=20250528" />
+                <p><strong>Roulette</strong></p>
+            </div>
+            <div class="game-item">
+                <img src="https://d2rzzcn1jnr24x.cloudfront.net/Images/providers/EVOGAMING/PTBaccarat000001.jpg?v=20250528" />
+                <p><strong>Baccarat</strong></p>
+            </div>
+        </div>
+        <p>Jika Anda tertarik, daftar sekarang dan mulai eksplorasi dunia permainan online yang menarik di Bursa 188!</p>
+    </div>
+</body>
+</html>
